@@ -63,7 +63,7 @@ export default function Footer() {
             className="w-full h-32 rounded-xl"
           />
         </div>
-      </div>
+      </div>      
 
 
       {/* BOTTOM BAR */}
