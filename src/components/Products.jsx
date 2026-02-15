@@ -32,7 +32,7 @@ export default function Products() {
           <h2 className="font-semibold mt-3">{item.name}</h2>
 
           <a
-            href={`https://wa.me/919999999999?text=I am interested in ${item.name}`}
+            href={`https://wa.me/918089498483?text=I am interested in ${item.name}`}
             className="inline-block mt-2 text-sm font-medium text-green-600 hover:underline"
           >
             Enquire on WhatsApp

@@ -7,12 +7,12 @@ export default function Contact() {
       <div>
         <h2 className="text-3xl font-bold mb-4">Contact Us</h2>
 
-        <p className="mb-3">📞 +91 9999999999</p>
-        <p className="mb-3">✉️ curtaingallery@gmail.com</p>
+        <p className="mb-3">📞 +91 8089498483</p>
+        <p className="mb-3">✉️ curtaingallery2014@gmail.com</p>
         <p className="mb-3">📍 Kerala, India</p>
 
         <a
-          href="https://wa.me/919999999999"
+          href="https://wa.me/918089498483"
           className="bg-green-600 text-white px-6 py-3 rounded-xl inline-block mt-4"
         >
           Chat on WhatsApp

@@ -18,7 +18,7 @@ export default function Hero() {
 
       <div className="flex gap-4 justify-center mt-8">
         <a
-          href="https://wa.me/919999999999"
+          href="https://wa.me/918089498483"
           className="bg-[var(--primary)] text-white px-6 py-3 rounded-2xl shadow-lg"
         >
           WhatsApp Enquiry

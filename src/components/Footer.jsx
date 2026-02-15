@@ -31,7 +31,7 @@ export default function Footer() {
             <li><a href="/contact" className="hover:text-amber-400">Contact</a></li>
             <li>
               <a
-                href="https://wa.me/919999999999"
+                href="https://wa.me/918089498483"
                 className="hover:text-amber-400"
               >
                 WhatsApp Enquiry
@@ -47,7 +47,7 @@ export default function Footer() {
 
           <ul className="text-sm space-y-2 text-gray-200">
             <li>📞 +91 99999 99999</li>
-            <li>✉️ curtaingallery@gmail.com</li>
+            <li>✉️ curtaingallery2014@gmail.com</li>
             <li>📍 Thrissur, Kerala, India</li>
           </ul>
         </div>
